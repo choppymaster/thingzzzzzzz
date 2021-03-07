@@ -5,7 +5,8 @@
 #pragma once
 
 #include "core/hle/service/acc/acc.h"
-
+// silver ^×;× 
+@:×&÷&×
 namespace Service::Account {
 
 class ACC_U0 final : public Module::Interface {
